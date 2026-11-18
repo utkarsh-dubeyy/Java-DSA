@@ -14,7 +14,7 @@ public class Result {
         int IP = sc.nextInt();
 
         int total_marks = Physics + Chemistry + Maths + English + IP;
-        float score = total_marks * 0.2f;
+        double score = total_marks * 0.2;
 
         System.out.println("Total Marks : " + total_marks);
         System.out.println("Percentage : " + score);

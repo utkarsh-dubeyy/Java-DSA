@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class CelciusToFaranheit {
+public class CelciusToFahranheit {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
