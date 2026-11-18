@@ -4,7 +4,7 @@ My solutions while learning Java and data structures. I'm following the chapter 
 
 ## How it's organised
 
-- One folder per chapter, numbered like the course, for example `04-variables-and-data-types`.
+- One folder per chapter, numbered like the course, for example `01-variables-and-data-types`.
 - One file per question. The first line of each file is a comment with the question.
 
 ## Progress
